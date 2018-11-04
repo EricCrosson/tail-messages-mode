@@ -1,6 +1,6 @@
 # tail-messages-mode [![Build Status](https://travis-ci.org/EricCrosson/tail-messages-mode.svg?branch=master)](https://travis-ci.org/EricCrosson/tail-messages-mode)
 
-> Tail *Messages* buffer
+> Tail \*Messages\* buffer
 
 ## Install
 
