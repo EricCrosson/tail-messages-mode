@@ -42,9 +42,9 @@
   :group 'tail-messages
   :require 'tail-messages-mode)
 
-
-(defun tail-messages ()
-  "Move point to bottom of *Messages* buffer."
+(defun tail-messages (format-string &rest args)
+  "Move point to bottom of *Messages* buffer, ignoring FORMAT-STRING
+and ARGS."
   (with-current-buffer "*Messages*"
     (goto-char (point-max))
     (walk-windows (lambda (window)
