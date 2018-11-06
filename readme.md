@@ -1,4 +1,4 @@
-# tail-messages-mode [![Build Status](https://travis-ci.org/EricCrosson/tail-messages-mode.svg?branch=master)](https://travis-ci.org/EricCrosson/tail-messages-mode)
+# tail-messages-mode [![Build Status](https://travis-ci.org/EricCrosson/tail-messages-mode.svg?branch=master)](https://travis-ci.org/EricCrosson/tail-messages-mode) [![Version](https://img.shields.io/github/tag/EricCrosson/tail-messaages-mode.svg)](https://github.com/EricCrosson/tail-messaages-mode/releases)
 
 > Tail \*Messages\* buffer
 
