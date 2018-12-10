@@ -25,7 +25,7 @@ Or manually, after downloading into your `load-path`
 
 Invoke `tail-messages-mode` when desired.
 
-## Acknowledgements
+## Acknowledgments
 
 - [Original StackOverflow post](https://stackoverflow.com/a/4685005/10596482)
 
